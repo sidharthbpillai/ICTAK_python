@@ -1,0 +1,25 @@
+h1{
+    color: rgb(17, 35, 87);
+    background-color: rgb(235, 150, 150);
+    font-size: 50px
+}
+
+h2{
+    color:rgb(0, 0, 0)
+    
+}
+strong{
+    font-size: 20px;
+    
+    color: rgb(0, 0, 0);
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(3, 5, 5)
+    
+
+}
+body{
+    background: url("abc.jpg.jpg");
+}
